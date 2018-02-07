@@ -8,5 +8,5 @@ If you are a **absolute beginner** and want a general and intuitive understandin
 # Newsletters
 Want to keep up with rapidly growing world of Artificial Intelligence specially Machine Learning and Deep Learning? These newsletters with hook you up with latest advancements which happens in every week: <br>
 
-1. [Artificial Inteligence and Deep Learning Weekly](http://aidl.io/) by by Waikit Lau and Arthur Chan <br>
+1. [Artificial Inteligence and Deep Learning Weekly](http://aidl.io/) by Waikit Lau and Arthur Chan <br>
 2. [Import Ai](https://jack-clark.net/) by Jack Clark

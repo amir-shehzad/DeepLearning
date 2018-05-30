@@ -1,4 +1,4 @@
-Lecture link  
+Lecture Recognizing cats and dogs  
 http://course.fast.ai/lessons/lesson1.html
 
 Lesson wiki  

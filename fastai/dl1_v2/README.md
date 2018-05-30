@@ -1,1 +1,2 @@
 My notes for "Practical Deep Learning For Coders, Part 1" at fast.ai
+**http://course.fast.ai**

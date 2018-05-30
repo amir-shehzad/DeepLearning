@@ -1,4 +1,4 @@
-Lecture link  
+Lecture Convolutional neural networks  
 http://course.fast.ai/lessons/lesson2.html
 
 Lecture wiki  

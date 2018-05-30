@@ -1,4 +1,4 @@
-Lecture link  
+Lecture Improving Your Image Classifier  
 http://course.fast.ai/lessons/lesson3.html
 
 Lecture wiki  
